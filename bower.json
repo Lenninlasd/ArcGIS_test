@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "authors": [
+    "zenerlasd <lenninlasd@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": ""
+}
