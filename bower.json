@@ -7,5 +7,8 @@
   "main": "index.html",
   "moduleType": [],
   "license": "MIT",
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "terraformer-arcgis-parser": "^1.0.4"
+  }
 }
